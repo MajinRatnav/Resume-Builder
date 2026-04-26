@@ -1,6 +1,6 @@
 # Résumé Building Application
 
-A robust Java-based desktop utility designed to automate the creation of professional resumes. [cite_start]By streamlining the multi-step input process, this application reduces manual formatting time by approximately 80%[cite: 28, 30, 33].
+A robust Java-based desktop utility designed to automate the creation of professional resumes. By streamlining the multi-step input process, this application reduces manual formatting time by approximately 80%.
 
 ## 🚀 Features
 
