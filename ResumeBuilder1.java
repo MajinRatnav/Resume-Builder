@@ -86,7 +86,7 @@ public class ResumeBuilder1 extends JFrame {
         
         if (fileChooser.showSaveDialog(this) == JFileChooser.APPROVE_OPTION) {
             try {
-                // 1. Initialize PDF writer and document
+                // 1. Initialize PDF writer and documents
                 PdfWriter writer = new PdfWriter(fileChooser.getSelectedFile());
                 PdfDocument pdf = new PdfDocument(writer);
                 Document document = new Document(pdf);
